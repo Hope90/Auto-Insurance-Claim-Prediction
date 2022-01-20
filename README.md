@@ -13,7 +13,7 @@ The first objective of the project is to write the main steps of a data-science 
 The algorithms used do not have to be hyper-optimized on all parameters. However, the project should test different algorithms adapted to the type of problem.
 
 ## Data
-train_auto
+train_auto  
 test_auto
 
 ## Submission
