@@ -1,4 +1,5 @@
-# Data Scientist Technical Test: Auto Insurance
+# Data Science Test
+# Auto Insurance: Claim Prediction
 ## Goal
 The aim of the project is to write a code which should be able to make a prediction on the dataset Auto Insurance.  
 The target for this project is `TARGET_FLAG`.
